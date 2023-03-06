@@ -1,11 +1,6 @@
-# Data-Visualization-Project
-Run the 'app.R' file on RStudio to start the website
-
-
 <h1 align="center">
-  <br>
-  International airline activities and the impact of the covid-19 pandemic
-  <br>
+  International airline activities and 
+  the impact of the covid-19 pandemic
 </h1>
 
 Giới thiệu về dự án
@@ -31,6 +26,8 @@ Giới thiệu về dự án
   - Windows, macOS and Linux ready.
 
 ## How to Install and Run the Project
+Run the 'app.R' file on RStudio to start the website
+
 
 ## How To Use
 
