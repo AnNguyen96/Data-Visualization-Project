@@ -1,5 +1,5 @@
 <h1 align="center">
-  International airline activities and 
+  International airline activities and\
   the impact of the covid-19 pandemic
 </h1>
 
