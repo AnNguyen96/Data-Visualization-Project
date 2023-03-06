@@ -15,19 +15,9 @@ Giới thiệu về dự án
 * Syntax highlighting
 * [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
 
 ## How to Install and Run the Project
 Run the 'app.R' file on RStudio to start the website
-
 
 ## How To Use
 
@@ -56,11 +46,6 @@ This software uses the following open source packages:
 
 - [Electron](http://electron.atom.io/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
 
 
 
