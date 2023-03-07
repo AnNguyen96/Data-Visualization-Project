@@ -5,6 +5,12 @@
 
 Giới thiệu về dự án
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="picture/Title.png">  title Homepage |  <img width="1604" src="picture/Info_Homepage.png"> Introduction|<img width="1604" src="picture/Tab1.1.png"> 1st tab|
+|<img width="1604" src="picture/Tab1.2.png">  2nd tab |  <img width="1604" src="picture/Tab2.1.png"> 3rd tab |<img width="1604" src="picture/Tab2.2.png"> 4th tab|
+
+
 ## Key Features
 
 * LivePreview - Make changes, See changes
