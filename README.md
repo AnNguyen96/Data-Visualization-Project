@@ -46,7 +46,9 @@ When scrolling down the web page, viewers will see short pieces of information t
     - The range slider: select a range based on the number of flights,
     - Tooltip displays the name of the city and the number of international flights. 
     
-  The **line chart** shows the number of international flights changing over time (time series), at any position of the line, when the user moves in, it will display the year and number of flights at that time. Not only that, below the x-axis there will be a rangeslider where the user can slide to select the time period he wants to see details.
+    The **line chart** shows the number of international flights changing over time (time series), at any position of the line, when the user moves in:
+    - Display the year and number of flights at that time, 
+    - Range slider: slide to select the time period user wants to see details.
 
 * **Coivd-19 Impact tab**:
   - **Covid-19 overview tab**: When changing the recording reason filter, the **bar chart** will change shape according to the data. In particular, users can select multiple reasons at the same time, this time the chart will change from bar chart to stacked barchart with different colors to distinguish different reasons.
