@@ -41,11 +41,11 @@ When scrolling down the web page, viewers will see short pieces of information t
     - Box select – Select the data in the box to pay attention, 
     - Autoscale, 
     - Reset axes.
-  - **Evolution tab**: **Map** shows the total number of international flights operated for nearly 20 years from 2003 to 2022 in key Australian cities. User can:
+  - **Evolution tab**: **Map** shows the total number of international flights operated from 2003 to 2022 in key Australian cities. User can:
     - Zoom In / Zoom Out, 
     - The range slider helps the user select a range based on the number of flights,
     - clicking on the symbol to point to the tooltip displays the name of the city and the number of international flights recorded there. 
-    The **line chart** shows the number of international flights changing over time (time series), at any position of the line, when the user moves in, it will display the year and number of flights at that time. Not only that, below the x-axis there will be a rangeslider where the user can slide to select the time period he wants to see details.
+   The **line chart** shows the number of international flights changing over time (time series), at any position of the line, when the user moves in, it will display the year and number of flights at that time. Not only that, below the x-axis there will be a rangeslider where the user can slide to select the time period he wants to see details.
 
 * **Coivd-19 Impact tab**:
   - **Covid-19 overview tab**: When changing the recording reason filter, the **bar chart** will change shape according to the data. In particular, users can select multiple reasons at the same time, this time the chart will change from bar chart to stacked barchart with different colors to distinguish different reasons.
