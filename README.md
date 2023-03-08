@@ -45,6 +45,7 @@ When scrolling down the web page, viewers will see short pieces of information t
     - Zoom In / Zoom Out, 
     - The range slider: select a range based on the number of flights,
     - Tooltip displays the name of the city and the number of international flights. 
+    
   The **line chart** shows the number of international flights changing over time (time series), at any position of the line, when the user moves in, it will display the year and number of flights at that time. Not only that, below the x-axis there will be a rangeslider where the user can slide to select the time period he wants to see details.
 
 * **Coivd-19 Impact tab**:
