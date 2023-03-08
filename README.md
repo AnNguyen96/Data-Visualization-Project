@@ -19,15 +19,22 @@
 ## Key Features
 
 * View information, links to respective websites
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* Graph hover and tooltip in Map
-
+* Interaction design
+  - Drop-down list (Filtering)
+  - Slider
+  - Mouse-over and tooltip in Map
 
 ## How to Run the Project
-Run the `app.R` file on RStudio to start the website
+Run the `app.R` file on `RStudio` to start the website
 
 ## How To Use
+The web application is separated into three primary tabs: Home, International Airline, and Covid-19's Impact, in order to be intuitive, easy to grasp, and orderly for data storytelling. The tracking will be done in the following order: top to bottom and left to right.
+
+- **Home tab**: 
+The main purpose of this tab is to introduce the topic of the project through the project name and the image moves automatically on the slider so that viewers can access the topic more easily. No graphs will be applied in this tab as it can be distracting or keep the user from catching up on the story. Next, when scrolling down the web page, viewers will see short pieces of information to introduce Australian International Airline and Covid-19 Impact, with below is a link labeled "Click Here To Learn More", when users clicks will take them to an external web page which will provide them with the most up-to-date news or articles. Not only that, at the bottom of the title there will be a tab switch with the label “EXPLORE THE DATA NOW”, depending on where the user clicks, it will move the tab to the Airline or Coivd-19 tab, or to the top of the page web will be the bar to switch between 3 tabs together, users can use them here. In addition, some information about the website creator is also displayed in the tab such as name, university, subject and time of website creation.
+
+* **International Airline tab**: 
+  - **Distribution & Ranking tab**: **Wordcloud** shows which airline names are used a lot depending on the size of the displayed text, the larger the text, the more used that airline is. The layout of the Wordcloud section will be tilted at an angle of 30 degrees and each time it is selected, a different set of colors will be displayed, bringing a feeling of not being boring to the user. When scrolling to the location of each airline, will appear detailed information about how many times that airline has been used. **TreeMap** represents the port country grouped by group region, the regions will be marked with different colors, in each region the countries will be colored from dark to light depending on the value from high to low. **Barchart** shows the top 10 international cities with the most flights to or from Australia, the graph will be horizontal with the values shown on the graph. When both In and Out are selected, the chart will have two distinct colors to distinguish which data type is associated with the legend that appears on the right side of the chart. Especially, because it is designed from plotly method, for this chart, users will have more options of features such as: Download plot as a png, Zoom In / Zoom Out – Zoom in or out the data for a better view, Pan – Move the chart arbitrarily within the frame, Box select – Select the data in the box to pay attention, Autoscale and Reset axes.
 
 
 ## Credits
