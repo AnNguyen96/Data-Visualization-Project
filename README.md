@@ -3,7 +3,10 @@
   the impact of the covid-19 pandemic
 </h1>
 
-**Project Description**: 
+**Project Description**: This project is part of an assignment in the Data Exploration and Visualization course at Monash. In this narrative visualisation, I want to convey the story of international flights in Australia from 2003 to present in 2022 and the impact of the covid-19 pandemic in recent years so that viewers can have a better understanding through animated and interactive charts. Dataset is open data collected from [link1](https://www.data.gov.au/data/dataset/international-airlines-operated-flights-and-seats) and [link2](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-areapostcode-and-acquired-source). The limitation of this project is that it can only be run locally but this will be fixed in the future.
+
+
+
 
 <h4 align="center">The project is made by Phuc An Nguyen</h4>
 
